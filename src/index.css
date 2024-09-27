@@ -1,0 +1,8 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.diagonal-gradient:hover {
+  background: linear-gradient(155deg, rgba(224, 224, 224, 0.404), rgba(0, 0, 0, 0.9));
+}
