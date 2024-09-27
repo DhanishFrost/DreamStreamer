@@ -12,7 +12,6 @@ Before running this project, you need to set up the following environment variab
 - `VITE_NEXT_PUBLIC_USER_POOL_APP_CLIENT_ID`: Your AWS Cognito User Pool App Client ID.
 - `VITE_S3_BUCKET_NAME`: The name of the S3 bucket used for storage.
 
-Ensure that you never commit your `.env` file to version control. Add `.env` to your `.gitignore` file to prevent it from being tracked by Git.
 
 ## Setup
 
